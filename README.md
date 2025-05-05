@@ -8,7 +8,6 @@ A simple and fun JavaScript game where you catch falling fruits with a basket! G
 
 👉 [Play the game here] https://lucky-rolypoly-a7f990.netlify.app/
 
-> *(Replace the link above with your actual deployed URL, e.g., GitHub Pages, Vercel, or Netlify)*
 
 ---
 
